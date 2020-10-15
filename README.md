@@ -1,5 +1,3 @@
-# webComponents
-
 # web Components
 
 ### 一、概念和作用
